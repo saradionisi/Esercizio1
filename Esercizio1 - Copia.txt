@@ -1,0 +1,3 @@
+Ciao 1
+Nodifica 4
+1.0
